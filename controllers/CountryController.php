@@ -134,7 +134,7 @@ class CountryController extends Controller
 protected function actionPruebaGitRama()
 {
   
-echo "prueba GIT 45";
+echo "prueba GIT 45 nueva rama 2";
 }
 
 
