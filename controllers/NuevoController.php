@@ -17,3 +17,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet odit necessitatibu
  alias corrupti ipsam obcaecati quam ab ea praesentium asperiores! Dolor.
 
 
+ACOSOS EN UNAM 18/02/2020
+
+Alumnos pertenecientes a diferentes planteles de la Universidad Nacional Autónoma de México (UNAM)
+ llegaron a Rectoría en Ciudad Universitaria (CU)para exigir un alto a los casos de acoso 
+ dentro de las aulas de la máxima casa de estudios.
